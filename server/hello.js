@@ -1,3 +1,3 @@
-exports.hello = function() {
-    console.log('hello world...')
+exports.multiplication = function(a, b){ 
+    return(a * b);
 };
